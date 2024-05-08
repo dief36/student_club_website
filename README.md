@@ -5,6 +5,7 @@ This project aims to create a platform where students can discover activities of
 
 
 ![a](https://github.com/dief36/student_club_website/assets/102587818/6a9a05a5-ae2d-4183-b16d-4421f928f9ea)
+![5](https://github.com/dief36/student_club_website/assets/102587818/a7d589b9-e60c-4707-a7f9-d2dd127dc76f)
 
 
 ## Documentation
@@ -13,6 +14,7 @@ Club managers can create detailed posts about upcoming events, including descrip
 - Club Management (Design Key: Intuitive interface for managing club activities)
 Tools for club managers to manage memberships, organize meetings, and coordinate tasks.
 
+![e](https://github.com/dief36/student_club_website/assets/102587818/1a264416-3edc-4147-9959-88624a2be4fb)
 
 
 - User Login (Design Key: Secure and user-friendly login system)
@@ -23,6 +25,10 @@ Notification systems facilitate communication between club members and administr
 A calendar displays all upcoming club activities and university-wide events, helping students plan their schedules.
 - Admin Dashboard (Design Key: Clean and organized dashboard for efficient administration)
 Provides full control over user management, content moderation, system settings, and analytics.
+
+![f](https://github.com/dief36/student_club_website/assets/102587818/19267b98-9bb8-4aee-8a18-96c370e859ca)
+
+
 - Detailed Event View (Design Key: High-quality media and clear event details)
 Users can click on events to access detailed information on a dedicated page.
 - Admin-Manager Communication (Design Key: Secure and efficient communication channels)
@@ -36,11 +42,11 @@ Users can search for activities based on custom date ranges, specific headings, 
 - Club Creation and Deletion (Design Key: Streamlined process for club management)
 SKS admins can create and delete clubs.
 - Content Moderation (Design Key: Clear communication and approval steps)
-SKS admins can consult with managers before deleting information.
+admins can consult with managers before deleting information.
 - Multiple Search Options (Design Key: Intuitive search filters for efficient information retrieval)
 The search section offers various filters like computer science, date, biology, etc.
 - Homepage Announcements (Design Key: Prominent and visually appealing announcement section)
-SKS admin and managers can send messages for the homepage.
+  admin and managers can send messages for the homepage.
 - Dedicated Search Options (Design Key: Clear distinction between activity and club searches)
 Separate search functionalities for activities and clubs.
 - Event Archiving (Design Key: Clear indication of archived or upcoming events)
@@ -57,15 +63,15 @@ Students can view a table summarizing weekly activities.
 - User Roles (Design Key: Role-based access control ensures user permissions)
 The system supports three user roles: Admin, Student, and Manager.
 - Edit Notifications (Design Key: Clear audit trails and notifications for content management)
-SKS admin receives notifications when edits are made to content.
+admin receives notifications when edits are made to content.
 - Login Tracking (Design Key: Secure login system with activity tracking)
 Student login activity is logged.
 - Publishing Control (Design Key: Clear approval workflow for content publication)
-SKS admin controls the publishing of content.
+  admin controls the publishing of content.
 - Customizable Search (Design Key: Flexible search options for user convenience)
 Users can search with custom titles and date ranges.
 - Manager Notifications (Design Key: Timely information for efficient club management)
-SKS managers receive relevant notifications from the system.
+ managers receive relevant notifications from the system.
 
 
 
